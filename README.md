@@ -2,9 +2,9 @@
 
 <br />
 
-Mi nombre es [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode/), un apasionado desarrollador web autodidacta de pila completa independiente de Uruguay. Mi pasión por el software radica en soñar ideas y hacerlas realidad con interfaces elegantes. Cuido mucho la experiencia, la arquitectura y la calidad del código de las cosas que construyo.
+Mi nombre es [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode/), un apasionado desarrollador web autodidacta de pila completa independiente de Uruguay. Mi pasión por el software radica en imaginar ideas y hacerlas realidad con interfaces. Cuido mucho la experiencia, la arquitectura y la calidad de código de las cosas que construyo.
 
-Aprendí mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
+He aprendido mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
