@@ -21,8 +21,8 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <li>🏀 Entrenar básquetbol</li>
 </ul>
   
-- 💼 algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
-- 💬 pregúntame sobre cualquier cosa, estoy feliz de ayudar;
+- 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
+- 💬 Pregúntame sobre cualquier cosa, estare feliz de ayudar;
 
 **Lenguajes y herramientas:**  
 
@@ -41,7 +41,7 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <!--
 📊 **esta semana trabaje con:**
 -->
-Acerca de mis gustos: me gusta ver atardeceres, disfrutar una barra de chocolate y también decir que soy muy fan del café ☕
+Acerca de mis gustos: me gusta ver atardeceres, disfrutar una barra de chocolate y también decir que soy fan del café ☕
 
 🚧 **My ToDoList stats:**
 <!-- TODO-IST:START -->
