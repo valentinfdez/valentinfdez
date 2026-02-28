@@ -10,7 +10,7 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
   src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" 
   width="500" 
   height="320"
-  style="float: right; margin-left: 20px;"
+  style="float: center; margin-left: 20px;"
 />
 
 <div style="clear: both;"></div> 
