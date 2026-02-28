@@ -6,12 +6,12 @@ Mi nombre es [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode
 
 He aprendido mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
-<img 
-  src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" 
-  width="500" 
-  height="320"
-  style="float: center; margin-left: 20px;"
-/>
+<p align="center">
+  <img 
+    src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" 
+    width="400"
+  />
+</p>
 
 <div style="clear: both;"></div> 
 <h1>📋 Mis pasatiempos son:</h1>
