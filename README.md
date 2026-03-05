@@ -2,7 +2,7 @@
 
 <br />
 
-Mi nombre es [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode/), un apasionado programador autodidacta independiente de Uruguay. Mi pasión por el software radica en imaginar ideas y hacerlas realidad con interfaces. Cuido mucho la experiencia, la arquitectura y la calidad de código de lo que construyo.
+Mi nombre es [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode/), un apasionado programador autodidacta independiente de Uruguay. Mi pasión por el software radica en imaginar ideas y hacerlas realidad. Cuido mucho la experiencia, la arquitectura y la calidad de código de lo que construyo.
 
 He aprendido mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
