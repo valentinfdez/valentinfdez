@@ -18,7 +18,7 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <ul>
 <li>👨🏻‍💻 Formarme en la programación</li>
 <li>👩🏻‍🤝‍🧑🏻 Tiempo en familia</li>
-<li>🏀 Entrenar básquetbol</li>
+<li>🏀 Practicar básquet</li>
 </ul>
   
 - 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
@@ -41,12 +41,12 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 
 <!--
-📊 **esta semana trabaje con:**
+📊 **Esta semana trabaje con:**
 -->
 Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una barra de chocolate y también mencionar que soy fan del café ☕
 
-🚧 **My ToDoList stats:**
 <!-- TODO-IST:START -->
+🚧 **My ToDoList stats:**
 Soon
 <!-- TODO-IST:END -->
 
@@ -58,7 +58,7 @@ Soon
 
 
 <!--
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 **Hi there 👋
