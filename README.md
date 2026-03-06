@@ -46,8 +46,10 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una barra de chocolate y también mencionar que soy fan del café ☕
 
 <!-- TODO-IST:START -->
+<!--
 🚧 **My ToDoList stats:**
 Soon
+-->
 <!-- TODO-IST:END -->
 
 
