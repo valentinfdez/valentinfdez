@@ -56,6 +56,8 @@ Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una b
 <li>Mejorar mi inglés</li>
 <li>Explorar nuevas tecnologias</li>
 </ul>
+
+
   
 - 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
 - 💬 Pregúntame sobre cualquier cosa, estare feliz de ayudar;
