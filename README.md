@@ -44,6 +44,7 @@ Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 
+
 <h1>📋 Mis pasatiempos son:</h1>
 <ul>
 <li>👨🏻‍💻 Formarme en la programación</li>
@@ -51,11 +52,13 @@ Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una b
 <li>🏀 Practicar básquet</li>
 </ul>
 
+
 <h1>🔭Enfocado en...</h1>
 <ul>
 <li>Mejorar mi inglés</li>
 <li>Explorar nuevas tecnologias</li>
 </ul>
+
 
 <h1>💬Contacto</h1>
 - 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
