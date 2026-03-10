@@ -28,7 +28,6 @@ Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una b
 <li>MySQL</li>
 </ul>
 
-**Lenguajes y Herramientas:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -59,7 +58,7 @@ Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una b
 
 <h1>💬Contacto</h1>
 <ul>
-<li>💼Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)</li>
+<li>💼Algún proyecto freelance? contactame, [valentinfz314@gmail.com](mailto:valentinfz314@gmail.com) :)</li>
 </ul>
 
 
