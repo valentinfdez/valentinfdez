@@ -6,6 +6,8 @@ Mi nombre es [Valentín Fernández](https://www.linkedin.com/in/valentin-fercode
 
 He aprendido mucho de la comunidad de código abierto y me encanta cómo la colaboración y el intercambio de conocimientos se dieron a través del código abierto.
 
+Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una barra de chocolate y también mencionar que soy fan del café ☕
+
 <p align="center">
   <img 
     src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" 
@@ -14,19 +16,7 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 </p>
 
 <div style="clear: both;"></div> 
-<h1>📋 Mis pasatiempos son:</h1>
-<ul>
-<li>👨🏻‍💻 Formarme en la programación</li>
-<li>👩🏻‍🤝‍🧑🏻 Tiempo en familia</li>
-<li>🏀 Practicar básquet</li>
-</ul>
 
-<h1>🔭Enfocado en...</h1>
-<ul>
-<li>Mejorar mi inglés</li>
-<li>Explorar nuevas tecnologias</li>
-</ul>
-  
 <h1>🌱Habilidades:</h1>
 <ul>
 <li>C++</li>
@@ -38,7 +28,7 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <li>MySQL</li>
 </ul>
 
-**Lenguajes y herramientas:**  
+**Lenguajes y Herramientas:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -54,13 +44,27 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
 
+<h1>📋 Mis pasatiempos son:</h1>
+<ul>
+<li>👨🏻‍💻 Formarme en la programación</li>
+<li>👩🏻‍🤝‍🧑🏻 Tiempo en familia</li>
+<li>🏀 Practicar básquet</li>
+</ul>
+
+<h1>🔭Enfocado en...</h1>
+<ul>
+<li>Mejorar mi inglés</li>
+<li>Explorar nuevas tecnologias</li>
+</ul>
+  
 - 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
 - 💬 Pregúntame sobre cualquier cosa, estare feliz de ayudar;
+
 
 <!--
 📊 **Esta semana trabaje con:**
 -->
-Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una barra de chocolate y también mencionar que soy fan del café ☕
+
 
 <!-- TODO-IST:START -->
 <!--
@@ -68,12 +72,6 @@ Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una b
 Soon
 -->
 <!-- TODO-IST:END -->
-
-
-
-
-
-
 
 
 <!--
