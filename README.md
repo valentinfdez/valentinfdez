@@ -20,7 +20,13 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <li>👩🏻‍🤝‍🧑🏻 Tiempo en familia</li>
 <li>🏀 Practicar básquet</li>
 </ul>
-  
+
+<h1>🔭Enfocado en...</h1>
+<ul>
+<li>Mejorar mi inglesn</li>
+<li>Explorar nuevas tecnologias</li>
+</ul>
+ 
 - 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
 - 💬 Pregúntame sobre cualquier cosa, estare feliz de ayudar;
 
