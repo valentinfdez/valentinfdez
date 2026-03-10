@@ -58,7 +58,7 @@ Acerca de mis gustos: me gusta salir a caminar, ver atardeceres, disfrutar una b
 
 <h1>💬Contacto</h1>
 <ul>
-<li>💼Algún proyecto freelance? contactame, [valentinfz314@gmail.com](mailto:valentinfz314@gmail.com) :)</li>
+<li>💼Algún proyecto freelance? contactame, mailto:valentinfz314@gmail.com :)</li>
 </ul>
 
 
