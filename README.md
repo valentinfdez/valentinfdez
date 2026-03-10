@@ -23,12 +23,20 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 
 <h1>🔭Enfocado en...</h1>
 <ul>
-<li>Mejorar mi inglesn</li>
+<li>Mejorar mi inglés</li>
 <li>Explorar nuevas tecnologias</li>
 </ul>
- 
-- 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
-- 💬 Pregúntame sobre cualquier cosa, estare feliz de ayudar;
+  
+<h1>🌱Habilidades:</h1>
+<ul>
+<li>C++</li>
+<li>Java</li>
+<li>Python</li>
+<li>HTML/CSS/Bootstrap</li>
+<li>JavaScript/React</li>
+<li>Flask</li>
+<li>MySQL</li>
+</ul>
 
 **Lenguajes y herramientas:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
@@ -45,6 +53,9 @@ He aprendido mucho de la comunidad de código abierto y me encanta cómo la cola
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
+
+- 💼 Algún proyecto freelance? contactame, [email](valentinfdez01@gmail.com) :)
+- 💬 Pregúntame sobre cualquier cosa, estare feliz de ayudar;
 
 <!--
 📊 **Esta semana trabaje con:**
